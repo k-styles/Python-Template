@@ -1,0 +1,1 @@
+from src.module import dummy_module
